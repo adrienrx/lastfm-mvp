@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lastfm-lloyds</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_search_searchfied_hint">Album, Track, Artist...</string>
+</resources>
